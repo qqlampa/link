@@ -112,7 +112,16 @@ body {align-items: center;
 .content__text p {
 	margin: 0px 0px 30px 0px;
 }
-
+.sad{
+  font-family: 'Qanelas';
+    font-weight: bold;
+  font-size: 300px;
+}
+.eror{
+  font-family: 'Qanelas';
+    font-weight: bold;
+  font-size: 50px;
+}
 .footer{
 	
     margin: 25% 0 0 2%;
@@ -122,7 +131,10 @@ body {align-items: center;
     font-style: normal;
     font-size: 15px;
 }
+.name__eror{
+margin-top: 35%;
 
+}
 .animate__animated.animate__fadeIn {
 	--animate-duration: 3s;
   }
